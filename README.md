@@ -17,7 +17,7 @@ To run the code in this repository, follow these steps:
 2. Ensure required dependencies for each assignment file are installed (refer to individual assignment README's)
 3. Run the ipynb in your IDE of choice
 
-## Requirements
+## General Requirements
 * Python 3.11.5
 * Jupyter
 * pandas
