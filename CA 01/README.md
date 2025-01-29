@@ -13,4 +13,4 @@ In this project I explore and clean a real estate data set that is intended to b
 * scipy
 * seaborn
 * sklearn
-3. Run the CA01.ipynb file in your IDE of choice
+3. Run the CA01.ipynb file located in the CA 01 folder in your IDE of choice
