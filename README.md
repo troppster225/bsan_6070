@@ -14,7 +14,7 @@ To run the code in this repository, follow these steps:
 1. Clone the repository:
    ```bash
    git clone git@github.com:troppster225/bsan_6070.git
-2. Ensure required dependencies for each assignment file are installed
+2. Ensure required dependencies for each assignment file are installed (refer to individual assignment README's)
 3. Run the ipynb in your IDE of choice
 
 ## Requirements
