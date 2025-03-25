@@ -1,4 +1,4 @@
-# Income Classification Using a Ensemble Models
+# Income Classification Using Ensemble Models
 Similar to the previous project, I create an income classifier but this time use different ensemble models. The data comes from the Census Bureau and contains data on income and demographics for over 48K people. This project entailed binning data to be more easily and meaningfully split by the model, cleaning, exploring, and encoding the data. Finally I tested four different ensemble models, measuring accuracy and AUC against the hyper parameter n_estimators to find the optimal value.
 
 ## Steps for Running the Code:
