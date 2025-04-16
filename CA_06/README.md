@@ -18,4 +18,3 @@ This is a very simple demo of streamlit where we take a dataset containing footb
    streamlit run app.py
 ```
 6. Go to the link it provides
-7. To avoid having to run it locally, see the deployed version here: 
