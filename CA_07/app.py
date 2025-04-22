@@ -3,11 +3,11 @@ import pandas as pd
 import pickle
 
 #loading the serialized model
-with open('model.pkl', 'rb') as f:
+with open('../model.pkl', 'rb') as f:
     model = pickle.load(f)
 
 #loading the saved scaler
-with open('scaler.pkl', 'rb') as f:
+with open('../scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
 df = pd.read_csv('https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv')
