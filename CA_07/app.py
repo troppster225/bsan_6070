@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-import os
-
-st.write("Current directory:", os.getcwd())
-st.write("Files in the current directory:", os.listdir())
 
 #loading the serialized model
 with open('CA_07/model.pkl', 'rb') as f:
