@@ -21,3 +21,4 @@ In this project I create a movie recommendation engine using a kNN model and dep
    streamlit run app.py
 ```
 8. To access the deployed version, go to this link:
+https://mymovierec.streamlit.app/
