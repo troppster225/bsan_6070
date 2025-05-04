@@ -7,7 +7,7 @@ def main():
     st.title("🎓 Predicting Higher Education Outcomes")
     st.markdown("Use this tool to estimate the likelihood that an individual will graduate from college based on demographic and socioeconomic factors.")
 
-    model = joblib.load("model.pkl")
+    model = joblib.load("final_project/model.pkl")
 
     # Box-like layout for inputs (not collapsible)
     st.markdown("### Personal & Demographic Information")
