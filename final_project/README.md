@@ -1,5 +1,5 @@
 # BSAN 6070 Final Project
-### By: Brandon Acosta, Yardon Sasson, and Tommy Ropp
+### By: Brandon Acosta, Yarden Sasson, and Tommy Ropp
 
 This project uses data from the 2021 American Community Survey to predict whether an individual is likely to graduate from college, based on a wide range of demographic, socioeconomic, and language-related features. Our goal is to assist scholarship providers, policymakers, and educational organizations in identifying communities that may benefit from targeted support.
 
